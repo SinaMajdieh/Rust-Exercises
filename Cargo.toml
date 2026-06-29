@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "chapter_8/*"
+]
+exclude = [
+    ".git"
+]
+resolver = "2"
