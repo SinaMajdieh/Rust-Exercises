@@ -1,8 +1,9 @@
 [workspace]
 members = [
-    "chapter_8/*"
+    "*/*"
 ]
 exclude = [
-    ".git"
+    ".git",
+    "target"
 ]
 resolver = "2"
